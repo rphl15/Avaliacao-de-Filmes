@@ -45,6 +45,21 @@ avaliacao-de-filmes
 ├── notebooks  
 ├── src  
 └── README.md
+## Instituição
+
+Projeto desenvolvido como parte da disciplina **Projeto Aplicado II** da  
+Universidade Presbiteriana Mackenzie.
+
+## Alunos Participantes
+
+- Raphael Camargo
+- Vanessa Biesek
+- Felipe Yuji Nakanishi
+- Felipe dos Santos Costa
+
+## Professor
+
+Professor responsável pela disciplina: (nome do professor)
 
 ## Resultado Esperado
 Desenvolver uma ferramenta capaz de analisar automaticamente avaliações de filmes e identificar o sentimento do público.
