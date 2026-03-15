@@ -59,7 +59,7 @@ Universidade Presbiteriana Mackenzie.
 
 ## Professor
 
-Professor responsável pela disciplina: (nome do professor)
+Professor responsável pela disciplina: Felipe Albino dos Santos
 
 ## Resultado Esperado
 Desenvolver uma ferramenta capaz de analisar automaticamente avaliações de filmes e identificar o sentimento do público.
